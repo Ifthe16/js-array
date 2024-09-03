@@ -1,7 +1,10 @@
 const friends = ['balam', 'kalam', 'salam', 'gelam', 'pailam'];
 console.log(friends);
-friends.shift()
+
+// shift 
+friends.shift();
 console.log(friends);
 
-friends.unshift('ghumailam')
+// unshift 
+friends.unshift('ghumailam');
 console.log(friends);
